@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -29,7 +28,8 @@
 
 	<p style="text-align: center"><marquee direction="left" behavior="alternate"  scrollamount="8"> <a href="#">Sarkari Result Android Apps <a/>||<a href="#"> Sarkari Result Youtube Channel <a/>||<a href="#"> Sarkari Result Apple <a/>/<a href="#"> IOS Apps<a/>|| <a href="#">Follow Instagram<a/></marquee></p>
 
-		<center><p style="text-align: center; background-color: aqua; width: 15%; border-radius: 10px;">Follow @sarkari_result</p></center>
+		<center><p style="text-align: center; background-color: aqua; width: 15%; border-radius: 10px;">
+		Follow @sarkari_result</p></center>
 <center><p style="color:white; background-color: blue;
 width: 15%;
 "><u><b>Sarkari Result Youtube</b></u></p></center>
@@ -59,11 +59,12 @@ width: 15%;
 		</table>
 
 <br>
-	<table style="border: 1px solid red;">
+	<table style="border: 1px solid red;" align="center">
 		<tr>
-			<th>Result</th>
-			<th>Admit Card</th>/
-			<th>Latest Job</th>
+			<th> <h2>Result</h2></th>
+			<th> <h2>Admit Card</h2></th>
+			<th> <h2>Latest Job</h2></th>
+			 
 		</tr>
 
 		<tr>
